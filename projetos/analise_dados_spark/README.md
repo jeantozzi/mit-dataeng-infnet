@@ -1,7 +1,7 @@
 # Análise de dados em PySpark
 
 ## Proposta geral do trabalho
-- Refazer utilizando a API do PySpark as análises presentes no projeto de Infraestrutura Hadoop.
+- Refazer utilizando a API do PySpark as análises presentes no projeto de Infraestrutura Hadoop, adicionando duas novas análises exploratórias.
 - Desenvolver um projeto de Machine Learning utilizando Spark MLlib em um notebook, com as seguintes etapas:
     - Contextualização dos dados e do problema, bem como algoritmo e/ou técnica utilizados (regressão linear, regressão logística, clusterização, etc.) 
     - Tratamento e limpeza dos dados de forma documentada
