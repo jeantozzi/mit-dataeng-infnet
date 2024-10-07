@@ -4,3 +4,4 @@ Este repositório reúne os projetos desenvolvidos ao longo da formação MIT em
 
 ## Disciplinas
 - Infraestrutura Hadoop - [[Projeto]](./projetos/infraestrutura_hadoop/)
+- Análise de dados com Spark - [[Projeto]](./projetos/analise_dados_spark/)
