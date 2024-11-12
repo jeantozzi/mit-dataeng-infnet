@@ -1,0 +1,445 @@
+ano,tipo_dia,fase_dia,condicao_metereologica,mortos
+2017,Dia Útil,Amanhecer,Chuva,28
+2017,Dia Útil,Amanhecer,Céu Claro,113
+2017,Dia Útil,Amanhecer,Garoa/Chuvisco,8
+2017,Dia Útil,Amanhecer,Ignorado,4
+2017,Dia Útil,Amanhecer,Nevoeiro/Neblina,21
+2017,Dia Útil,Amanhecer,Nublado,49
+2017,Dia Útil,Amanhecer,Sol,2
+2017,Dia Útil,Anoitecer,Chuva,30
+2017,Dia Útil,Anoitecer,Céu Claro,122
+2017,Dia Útil,Anoitecer,Garoa/Chuvisco,3
+2017,Dia Útil,Anoitecer,Ignorado,5
+2017,Dia Útil,Anoitecer,Nublado,44
+2017,Dia Útil,Anoitecer,Sol,2
+2017,Dia Útil,Anoitecer,Vento,1
+2017,Dia Útil,Plena Noite,Chuva,175
+2017,Dia Útil,Plena Noite,Céu Claro,985
+2017,Dia Útil,Plena Noite,Garoa/Chuvisco,56
+2017,Dia Útil,Plena Noite,Ignorado,47
+2017,Dia Útil,Plena Noite,Nevoeiro/Neblina,26
+2017,Dia Útil,Plena Noite,Nublado,310
+2017,Dia Útil,Plena Noite,Vento,10
+2017,Dia Útil,Pleno dia,Chuva,238
+2017,Dia Útil,Pleno dia,Céu Claro,857
+2017,Dia Útil,Pleno dia,Garoa/Chuvisco,33
+2017,Dia Útil,Pleno dia,Ignorado,10
+2017,Dia Útil,Pleno dia,Nevoeiro/Neblina,11
+2017,Dia Útil,Pleno dia,Nublado,221
+2017,Dia Útil,Pleno dia,Sol,246
+2017,Dia Útil,Pleno dia,Vento,2
+2017,Fim de Semana,Amanhecer,Chuva,19
+2017,Fim de Semana,Amanhecer,Céu Claro,105
+2017,Fim de Semana,Amanhecer,Garoa/Chuvisco,7
+2017,Fim de Semana,Amanhecer,Ignorado,7
+2017,Fim de Semana,Amanhecer,Nevoeiro/Neblina,8
+2017,Fim de Semana,Amanhecer,Nublado,53
+2017,Fim de Semana,Amanhecer,Sol,2
+2017,Fim de Semana,Anoitecer,Chuva,10
+2017,Fim de Semana,Anoitecer,Céu Claro,75
+2017,Fim de Semana,Anoitecer,Garoa/Chuvisco,3
+2017,Fim de Semana,Anoitecer,Ignorado,8
+2017,Fim de Semana,Anoitecer,Nevoeiro/Neblina,2
+2017,Fim de Semana,Anoitecer,Nublado,37
+2017,Fim de Semana,Plena Noite,Chuva,117
+2017,Fim de Semana,Plena Noite,Céu Claro,814
+2017,Fim de Semana,Plena Noite,Garoa/Chuvisco,44
+2017,Fim de Semana,Plena Noite,Ignorado,45
+2017,Fim de Semana,Plena Noite,Nevoeiro/Neblina,15
+2017,Fim de Semana,Plena Noite,Nublado,292
+2017,Fim de Semana,Plena Noite,Sol,1
+2017,Fim de Semana,Plena Noite,Vento,5
+2017,Fim de Semana,Pleno dia,Chuva,98
+2017,Fim de Semana,Pleno dia,Céu Claro,508
+2017,Fim de Semana,Pleno dia,Garoa/Chuvisco,18
+2017,Fim de Semana,Pleno dia,Ignorado,6
+2017,Fim de Semana,Pleno dia,Nevoeiro/Neblina,1
+2017,Fim de Semana,Pleno dia,Nublado,138
+2017,Fim de Semana,Pleno dia,Sol,151
+2018,Dia Útil,Amanhecer,Chuva,27
+2018,Dia Útil,Amanhecer,Céu Claro,133
+2018,Dia Útil,Amanhecer,Garoa/Chuvisco,9
+2018,Dia Útil,Amanhecer,Ignorado,7
+2018,Dia Útil,Amanhecer,Nevoeiro/Neblina,22
+2018,Dia Útil,Amanhecer,Nublado,41
+2018,Dia Útil,Amanhecer,Sol,10
+2018,Dia Útil,Amanhecer,Vento,1
+2018,Dia Útil,Anoitecer,Chuva,21
+2018,Dia Útil,Anoitecer,Céu Claro,91
+2018,Dia Útil,Anoitecer,Garoa/Chuvisco,5
+2018,Dia Útil,Anoitecer,Ignorado,8
+2018,Dia Útil,Anoitecer,Nublado,41
+2018,Dia Útil,Anoitecer,Sol,2
+2018,Dia Útil,Plena Noite,Chuva,114
+2018,Dia Útil,Plena Noite,Céu Claro,875
+2018,Dia Útil,Plena Noite,Garoa/Chuvisco,60
+2018,Dia Útil,Plena Noite,Ignorado,54
+2018,Dia Útil,Plena Noite,Nevoeiro/Neblina,31
+2018,Dia Útil,Plena Noite,Nublado,292
+2018,Dia Útil,Plena Noite,Vento,4
+2018,Dia Útil,Pleno dia,Chuva,183
+2018,Dia Útil,Pleno dia,Céu Claro,776
+2018,Dia Útil,Pleno dia,Garoa/Chuvisco,24
+2018,Dia Útil,Pleno dia,Ignorado,4
+2018,Dia Útil,Pleno dia,Nevoeiro/Neblina,7
+2018,Dia Útil,Pleno dia,Nublado,183
+2018,Dia Útil,Pleno dia,Sol,176
+2018,Dia Útil,Pleno dia,Vento,3
+2018,Fim de Semana,Amanhecer,Chuva,14
+2018,Fim de Semana,Amanhecer,Céu Claro,94
+2018,Fim de Semana,Amanhecer,Garoa/Chuvisco,2
+2018,Fim de Semana,Amanhecer,Ignorado,6
+2018,Fim de Semana,Amanhecer,Nevoeiro/Neblina,13
+2018,Fim de Semana,Amanhecer,Nublado,30
+2018,Fim de Semana,Amanhecer,Sol,2
+2018,Fim de Semana,Amanhecer,Vento,1
+2018,Fim de Semana,Anoitecer,Chuva,13
+2018,Fim de Semana,Anoitecer,Céu Claro,55
+2018,Fim de Semana,Anoitecer,Garoa/Chuvisco,5
+2018,Fim de Semana,Anoitecer,Ignorado,3
+2018,Fim de Semana,Anoitecer,Nublado,15
+2018,Fim de Semana,Anoitecer,Sol,6
+2018,Fim de Semana,Plena Noite,Chuva,92
+2018,Fim de Semana,Plena Noite,Céu Claro,691
+2018,Fim de Semana,Plena Noite,Garoa/Chuvisco,37
+2018,Fim de Semana,Plena Noite,Ignorado,33
+2018,Fim de Semana,Plena Noite,Nevoeiro/Neblina,23
+2018,Fim de Semana,Plena Noite,Nublado,221
+2018,Fim de Semana,Plena Noite,Vento,8
+2018,Fim de Semana,Pleno dia,Chuva,75
+2018,Fim de Semana,Pleno dia,Céu Claro,404
+2018,Fim de Semana,Pleno dia,Garoa/Chuvisco,18
+2018,Fim de Semana,Pleno dia,Ignorado,5
+2018,Fim de Semana,Pleno dia,Nevoeiro/Neblina,3
+2018,Fim de Semana,Pleno dia,Nublado,107
+2018,Fim de Semana,Pleno dia,Sol,94
+2019,Dia Útil,Amanhecer,Chuva,27
+2019,Dia Útil,Amanhecer,Céu Claro,138
+2019,Dia Útil,Amanhecer,Garoa/Chuvisco,8
+2019,Dia Útil,Amanhecer,Ignorado,8
+2019,Dia Útil,Amanhecer,Nevoeiro/Neblina,16
+2019,Dia Útil,Amanhecer,Nublado,41
+2019,Dia Útil,Amanhecer,Sol,8
+2019,Dia Útil,Amanhecer,Vento,1
+2019,Dia Útil,Anoitecer,Chuva,25
+2019,Dia Útil,Anoitecer,Céu Claro,109
+2019,Dia Útil,Anoitecer,Garoa/Chuvisco,2
+2019,Dia Útil,Anoitecer,Ignorado,5
+2019,Dia Útil,Anoitecer,Nevoeiro/Neblina,1
+2019,Dia Útil,Anoitecer,Nublado,28
+2019,Dia Útil,Anoitecer,Sol,1
+2019,Dia Útil,Plena Noite,Chuva,132
+2019,Dia Útil,Plena Noite,Céu Claro,940
+2019,Dia Útil,Plena Noite,Garoa/Chuvisco,51
+2019,Dia Útil,Plena Noite,Ignorado,54
+2019,Dia Útil,Plena Noite,Nevoeiro/Neblina,30
+2019,Dia Útil,Plena Noite,Nublado,309
+2019,Dia Útil,Plena Noite,Vento,3
+2019,Dia Útil,Pleno dia,Chuva,163
+2019,Dia Útil,Pleno dia,Céu Claro,753
+2019,Dia Útil,Pleno dia,Garoa/Chuvisco,43
+2019,Dia Útil,Pleno dia,Ignorado,12
+2019,Dia Útil,Pleno dia,Nevoeiro/Neblina,8
+2019,Dia Útil,Pleno dia,Nublado,156
+2019,Dia Útil,Pleno dia,Sol,181
+2019,Fim de Semana,Amanhecer,Chuva,14
+2019,Fim de Semana,Amanhecer,Céu Claro,97
+2019,Fim de Semana,Amanhecer,Garoa/Chuvisco,2
+2019,Fim de Semana,Amanhecer,Ignorado,7
+2019,Fim de Semana,Amanhecer,Nevoeiro/Neblina,12
+2019,Fim de Semana,Amanhecer,Nublado,34
+2019,Fim de Semana,Amanhecer,Sol,2
+2019,Fim de Semana,Anoitecer,Chuva,9
+2019,Fim de Semana,Anoitecer,Céu Claro,57
+2019,Fim de Semana,Anoitecer,Garoa/Chuvisco,1
+2019,Fim de Semana,Anoitecer,Nublado,11
+2019,Fim de Semana,Anoitecer,Sol,3
+2019,Fim de Semana,Plena Noite,Chuva,90
+2019,Fim de Semana,Plena Noite,Céu Claro,728
+2019,Fim de Semana,Plena Noite,Garoa/Chuvisco,45
+2019,Fim de Semana,Plena Noite,Ignorado,43
+2019,Fim de Semana,Plena Noite,Nevoeiro/Neblina,6
+2019,Fim de Semana,Plena Noite,Nublado,204
+2019,Fim de Semana,Plena Noite,Vento,6
+2019,Fim de Semana,Pleno dia,Chuva,94
+2019,Fim de Semana,Pleno dia,Céu Claro,440
+2019,Fim de Semana,Pleno dia,Garoa/Chuvisco,19
+2019,Fim de Semana,Pleno dia,Ignorado,3
+2019,Fim de Semana,Pleno dia,Nevoeiro/Neblina,2
+2019,Fim de Semana,Pleno dia,Nublado,78
+2019,Fim de Semana,Pleno dia,Sol,79
+2019,Fim de Semana,Pleno dia,Vento,1
+2020,Dia Útil,Amanhecer,Chuva,34
+2020,Dia Útil,Amanhecer,Céu Claro,123
+2020,Dia Útil,Amanhecer,Garoa/Chuvisco,6
+2020,Dia Útil,Amanhecer,Ignorado,5
+2020,Dia Útil,Amanhecer,Nevoeiro/Neblina,17
+2020,Dia Útil,Amanhecer,Nublado,41
+2020,Dia Útil,Amanhecer,Sol,4
+2020,Dia Útil,Anoitecer,Chuva,24
+2020,Dia Útil,Anoitecer,Céu Claro,93
+2020,Dia Útil,Anoitecer,Garoa/Chuvisco,1
+2020,Dia Útil,Anoitecer,Ignorado,2
+2020,Dia Útil,Anoitecer,Nublado,29
+2020,Dia Útil,Anoitecer,Sol,2
+2020,Dia Útil,Anoitecer,Vento,1
+2020,Dia Útil,Plena Noite,Chuva,152
+2020,Dia Útil,Plena Noite,Céu Claro,944
+2020,Dia Útil,Plena Noite,Garoa/Chuvisco,53
+2020,Dia Útil,Plena Noite,Ignorado,33
+2020,Dia Útil,Plena Noite,Nevoeiro/Neblina,15
+2020,Dia Útil,Plena Noite,Nublado,265
+2020,Dia Útil,Plena Noite,Vento,5
+2020,Dia Útil,Pleno dia,Chuva,202
+2020,Dia Útil,Pleno dia,Céu Claro,765
+2020,Dia Útil,Pleno dia,Garoa/Chuvisco,38
+2020,Dia Útil,Pleno dia,Ignorado,3
+2020,Dia Útil,Pleno dia,Nevoeiro/Neblina,4
+2020,Dia Útil,Pleno dia,Nublado,144
+2020,Dia Útil,Pleno dia,Sol,158
+2020,Dia Útil,Pleno dia,Vento,1
+2020,Fim de Semana,Amanhecer,Chuva,13
+2020,Fim de Semana,Amanhecer,Céu Claro,74
+2020,Fim de Semana,Amanhecer,Garoa/Chuvisco,3
+2020,Fim de Semana,Amanhecer,Ignorado,4
+2020,Fim de Semana,Amanhecer,Nevoeiro/Neblina,5
+2020,Fim de Semana,Amanhecer,Nublado,20
+2020,Fim de Semana,Amanhecer,Sol,5
+2020,Fim de Semana,Anoitecer,Chuva,15
+2020,Fim de Semana,Anoitecer,Céu Claro,76
+2020,Fim de Semana,Anoitecer,Garoa/Chuvisco,1
+2020,Fim de Semana,Anoitecer,Ignorado,4
+2020,Fim de Semana,Anoitecer,Nublado,9
+2020,Fim de Semana,Plena Noite,Chuva,118
+2020,Fim de Semana,Plena Noite,Céu Claro,815
+2020,Fim de Semana,Plena Noite,Garoa/Chuvisco,27
+2020,Fim de Semana,Plena Noite,Granizo,1
+2020,Fim de Semana,Plena Noite,Ignorado,22
+2020,Fim de Semana,Plena Noite,Nevoeiro/Neblina,26
+2020,Fim de Semana,Plena Noite,Nublado,188
+2020,Fim de Semana,Plena Noite,Vento,5
+2020,Fim de Semana,Pleno dia,Chuva,53
+2020,Fim de Semana,Pleno dia,Céu Claro,427
+2020,Fim de Semana,Pleno dia,Garoa/Chuvisco,15
+2020,Fim de Semana,Pleno dia,Ignorado,4
+2020,Fim de Semana,Pleno dia,Nublado,89
+2020,Fim de Semana,Pleno dia,Sol,109
+2021,Dia Útil,Amanhecer,Chuva,18
+2021,Dia Útil,Amanhecer,Céu Claro,111
+2021,Dia Útil,Amanhecer,Garoa/Chuvisco,10
+2021,Dia Útil,Amanhecer,Ignorado,4
+2021,Dia Útil,Amanhecer,Nevoeiro/Neblina,12
+2021,Dia Útil,Amanhecer,Nublado,36
+2021,Dia Útil,Amanhecer,Sol,4
+2021,Dia Útil,Anoitecer,Chuva,17
+2021,Dia Útil,Anoitecer,Céu Claro,105
+2021,Dia Útil,Anoitecer,Garoa/Chuvisco,5
+2021,Dia Útil,Anoitecer,Ignorado,5
+2021,Dia Útil,Anoitecer,Nevoeiro/Neblina,1
+2021,Dia Útil,Anoitecer,Nublado,24
+2021,Dia Útil,Anoitecer,Sol,8
+2021,Dia Útil,Plena Noite,Chuva,139
+2021,Dia Útil,Plena Noite,Céu Claro,932
+2021,Dia Útil,Plena Noite,Garoa/Chuvisco,47
+2021,Dia Útil,Plena Noite,Ignorado,22
+2021,Dia Útil,Plena Noite,Nevoeiro/Neblina,26
+2021,Dia Útil,Plena Noite,Nublado,283
+2021,Dia Útil,Plena Noite,Vento,6
+2021,Dia Útil,Pleno dia,Chuva,183
+2021,Dia Útil,Pleno dia,Céu Claro,853
+2021,Dia Útil,Pleno dia,Garoa/Chuvisco,27
+2021,Dia Útil,Pleno dia,Ignorado,15
+2021,Dia Útil,Pleno dia,Nevoeiro/Neblina,3
+2021,Dia Útil,Pleno dia,Nublado,236
+2021,Dia Útil,Pleno dia,Sol,172
+2021,Dia Útil,Pleno dia,Vento,1
+2021,Fim de Semana,Amanhecer,Chuva,12
+2021,Fim de Semana,Amanhecer,Céu Claro,89
+2021,Fim de Semana,Amanhecer,Garoa/Chuvisco,6
+2021,Fim de Semana,Amanhecer,Ignorado,2
+2021,Fim de Semana,Amanhecer,Nevoeiro/Neblina,4
+2021,Fim de Semana,Amanhecer,Nublado,15
+2021,Fim de Semana,Amanhecer,Sol,1
+2021,Fim de Semana,Anoitecer,Chuva,10
+2021,Fim de Semana,Anoitecer,Céu Claro,69
+2021,Fim de Semana,Anoitecer,Garoa/Chuvisco,4
+2021,Fim de Semana,Anoitecer,Ignorado,1
+2021,Fim de Semana,Anoitecer,Nublado,22
+2021,Fim de Semana,Anoitecer,Sol,3
+2021,Fim de Semana,Plena Noite,Chuva,131
+2021,Fim de Semana,Plena Noite,Céu Claro,716
+2021,Fim de Semana,Plena Noite,Garoa/Chuvisco,28
+2021,Fim de Semana,Plena Noite,Ignorado,35
+2021,Fim de Semana,Plena Noite,Nevoeiro/Neblina,16
+2021,Fim de Semana,Plena Noite,Nublado,215
+2021,Fim de Semana,Plena Noite,Vento,4
+2021,Fim de Semana,Pleno dia,Chuva,71
+2021,Fim de Semana,Pleno dia,Céu Claro,430
+2021,Fim de Semana,Pleno dia,Garoa/Chuvisco,13
+2021,Fim de Semana,Pleno dia,Ignorado,2
+2021,Fim de Semana,Pleno dia,Nevoeiro/Neblina,1
+2021,Fim de Semana,Pleno dia,Nublado,101
+2021,Fim de Semana,Pleno dia,Sol,91
+2022,Dia Útil,Amanhecer,Chuva,15
+2022,Dia Útil,Amanhecer,Céu Claro,133
+2022,Dia Útil,Amanhecer,Garoa/Chuvisco,11
+2022,Dia Útil,Amanhecer,Ignorado,2
+2022,Dia Útil,Amanhecer,Nevoeiro/Neblina,13
+2022,Dia Útil,Amanhecer,Nublado,46
+2022,Dia Útil,Amanhecer,Sol,5
+2022,Dia Útil,Anoitecer,Chuva,17
+2022,Dia Útil,Anoitecer,Céu Claro,112
+2022,Dia Útil,Anoitecer,Garoa/Chuvisco,6
+2022,Dia Útil,Anoitecer,Ignorado,6
+2022,Dia Útil,Anoitecer,Nublado,32
+2022,Dia Útil,Anoitecer,Sol,3
+2022,Dia Útil,Plena Noite,Chuva,178
+2022,Dia Útil,Plena Noite,Céu Claro,934
+2022,Dia Útil,Plena Noite,Garoa/Chuvisco,61
+2022,Dia Útil,Plena Noite,Ignorado,38
+2022,Dia Útil,Plena Noite,Nevoeiro/Neblina,28
+2022,Dia Útil,Plena Noite,Nublado,251
+2022,Dia Útil,Plena Noite,Vento,6
+2022,Dia Útil,Pleno dia,Chuva,148
+2022,Dia Útil,Pleno dia,Céu Claro,879
+2022,Dia Útil,Pleno dia,Garoa/Chuvisco,43
+2022,Dia Útil,Pleno dia,Ignorado,4
+2022,Dia Útil,Pleno dia,Nevoeiro/Neblina,4
+2022,Dia Útil,Pleno dia,Nublado,193
+2022,Dia Útil,Pleno dia,Sol,156
+2022,Fim de Semana,Amanhecer,Chuva,11
+2022,Fim de Semana,Amanhecer,Céu Claro,109
+2022,Fim de Semana,Amanhecer,Garoa/Chuvisco,8
+2022,Fim de Semana,Amanhecer,Ignorado,6
+2022,Fim de Semana,Amanhecer,Nevoeiro/Neblina,5
+2022,Fim de Semana,Amanhecer,Nublado,21
+2022,Fim de Semana,Amanhecer,Sol,2
+2022,Fim de Semana,Amanhecer,Vento,1
+2022,Fim de Semana,Anoitecer,Chuva,5
+2022,Fim de Semana,Anoitecer,Céu Claro,75
+2022,Fim de Semana,Anoitecer,Garoa/Chuvisco,1
+2022,Fim de Semana,Anoitecer,Ignorado,2
+2022,Fim de Semana,Anoitecer,Nublado,14
+2022,Fim de Semana,Anoitecer,Sol,3
+2022,Fim de Semana,Plena Noite,Chuva,79
+2022,Fim de Semana,Plena Noite,Céu Claro,704
+2022,Fim de Semana,Plena Noite,Garoa/Chuvisco,49
+2022,Fim de Semana,Plena Noite,Ignorado,49
+2022,Fim de Semana,Plena Noite,Nevoeiro/Neblina,19
+2022,Fim de Semana,Plena Noite,Nublado,215
+2022,Fim de Semana,Plena Noite,Vento,2
+2022,Fim de Semana,Pleno dia,Chuva,81
+2022,Fim de Semana,Pleno dia,Céu Claro,455
+2022,Fim de Semana,Pleno dia,Garoa/Chuvisco,20
+2022,Fim de Semana,Pleno dia,Nevoeiro/Neblina,2
+2022,Fim de Semana,Pleno dia,Nublado,111
+2022,Fim de Semana,Pleno dia,Sol,68
+2023,Dia Útil,Amanhecer,Chuva,27
+2023,Dia Útil,Amanhecer,Céu Claro,168
+2023,Dia Útil,Amanhecer,Garoa/Chuvisco,12
+2023,Dia Útil,Amanhecer,Ignorado,10
+2023,Dia Útil,Amanhecer,Nevoeiro/Neblina,17
+2023,Dia Útil,Amanhecer,Nublado,47
+2023,Dia Útil,Amanhecer,Sol,4
+2023,Dia Útil,Anoitecer,Chuva,12
+2023,Dia Útil,Anoitecer,Céu Claro,119
+2023,Dia Útil,Anoitecer,Garoa/Chuvisco,3
+2023,Dia Útil,Anoitecer,Ignorado,3
+2023,Dia Útil,Anoitecer,Nevoeiro/Neblina,2
+2023,Dia Útil,Anoitecer,Nublado,36
+2023,Dia Útil,Anoitecer,Sol,2
+2023,Dia Útil,Anoitecer,Vento,1
+2023,Dia Útil,Plena Noite,Chuva,128
+2023,Dia Útil,Plena Noite,Céu Claro,991
+2023,Dia Útil,Plena Noite,Garoa/Chuvisco,45
+2023,Dia Útil,Plena Noite,Ignorado,29
+2023,Dia Útil,Plena Noite,Nevoeiro/Neblina,33
+2023,Dia Útil,Plena Noite,Nublado,253
+2023,Dia Útil,Plena Noite,Vento,5
+2023,Dia Útil,Pleno dia,Chuva,175
+2023,Dia Útil,Pleno dia,Céu Claro,930
+2023,Dia Útil,Pleno dia,Garoa/Chuvisco,42
+2023,Dia Útil,Pleno dia,Ignorado,2
+2023,Dia Útil,Pleno dia,Nevoeiro/Neblina,3
+2023,Dia Útil,Pleno dia,Nublado,160
+2023,Dia Útil,Pleno dia,Sol,170
+2023,Fim de Semana,Amanhecer,Chuva,4
+2023,Fim de Semana,Amanhecer,Céu Claro,135
+2023,Fim de Semana,Amanhecer,Garoa/Chuvisco,5
+2023,Fim de Semana,Amanhecer,Ignorado,5
+2023,Fim de Semana,Amanhecer,Nevoeiro/Neblina,17
+2023,Fim de Semana,Amanhecer,Nublado,33
+2023,Fim de Semana,Amanhecer,Sol,4
+2023,Fim de Semana,Anoitecer,Chuva,18
+2023,Fim de Semana,Anoitecer,Céu Claro,52
+2023,Fim de Semana,Anoitecer,Garoa/Chuvisco,2
+2023,Fim de Semana,Anoitecer,Ignorado,5
+2023,Fim de Semana,Anoitecer,Nublado,18
+2023,Fim de Semana,Plena Noite,Chuva,72
+2023,Fim de Semana,Plena Noite,Céu Claro,816
+2023,Fim de Semana,Plena Noite,Garoa/Chuvisco,36
+2023,Fim de Semana,Plena Noite,Ignorado,31
+2023,Fim de Semana,Plena Noite,Nevoeiro/Neblina,22
+2023,Fim de Semana,Plena Noite,Nublado,190
+2023,Fim de Semana,Plena Noite,Vento,1
+2023,Fim de Semana,Pleno dia,Chuva,60
+2023,Fim de Semana,Pleno dia,Céu Claro,499
+2023,Fim de Semana,Pleno dia,Garoa/Chuvisco,18
+2023,Fim de Semana,Pleno dia,Ignorado,1
+2023,Fim de Semana,Pleno dia,Nevoeiro/Neblina,8
+2023,Fim de Semana,Pleno dia,Nublado,57
+2023,Fim de Semana,Pleno dia,Sol,89
+2024,Dia Útil,Amanhecer,Chuva,15
+2024,Dia Útil,Amanhecer,Céu Claro,125
+2024,Dia Útil,Amanhecer,Garoa/Chuvisco,5
+2024,Dia Útil,Amanhecer,Ignorado,4
+2024,Dia Útil,Amanhecer,Nevoeiro/Neblina,29
+2024,Dia Útil,Amanhecer,Nublado,22
+2024,Dia Útil,Amanhecer,Sol,1
+2024,Dia Útil,Anoitecer,Chuva,17
+2024,Dia Útil,Anoitecer,Céu Claro,123
+2024,Dia Útil,Anoitecer,Garoa/Chuvisco,4
+2024,Dia Útil,Anoitecer,Ignorado,1
+2024,Dia Útil,Anoitecer,Nevoeiro/Neblina,2
+2024,Dia Útil,Anoitecer,Nublado,24
+2024,Dia Útil,Plena Noite,Chuva,79
+2024,Dia Útil,Plena Noite,Céu Claro,848
+2024,Dia Útil,Plena Noite,Garoa/Chuvisco,40
+2024,Dia Útil,Plena Noite,Ignorado,39
+2024,Dia Útil,Plena Noite,Nevoeiro/Neblina,15
+2024,Dia Útil,Plena Noite,Nublado,200
+2024,Dia Útil,Plena Noite,Vento,6
+2024,Dia Útil,Pleno dia,Chuva,133
+2024,Dia Útil,Pleno dia,Céu Claro,778
+2024,Dia Útil,Pleno dia,Garoa/Chuvisco,22
+2024,Dia Útil,Pleno dia,Ignorado,6
+2024,Dia Útil,Pleno dia,Nevoeiro/Neblina,6
+2024,Dia Útil,Pleno dia,Nublado,122
+2024,Dia Útil,Pleno dia,Sol,121
+2024,Fim de Semana,Amanhecer,Chuva,11
+2024,Fim de Semana,Amanhecer,Céu Claro,92
+2024,Fim de Semana,Amanhecer,Garoa/Chuvisco,7
+2024,Fim de Semana,Amanhecer,Ignorado,7
+2024,Fim de Semana,Amanhecer,Nevoeiro/Neblina,3
+2024,Fim de Semana,Amanhecer,Nublado,14
+2024,Fim de Semana,Amanhecer,Sol,2
+2024,Fim de Semana,Anoitecer,Chuva,6
+2024,Fim de Semana,Anoitecer,Céu Claro,59
+2024,Fim de Semana,Anoitecer,Garoa/Chuvisco,5
+2024,Fim de Semana,Anoitecer,Ignorado,2
+2024,Fim de Semana,Anoitecer,Nublado,16
+2024,Fim de Semana,Anoitecer,Sol,2
+2024,Fim de Semana,Plena Noite,Chuva,76
+2024,Fim de Semana,Plena Noite,Céu Claro,660
+2024,Fim de Semana,Plena Noite,Garoa/Chuvisco,22
+2024,Fim de Semana,Plena Noite,Ignorado,29
+2024,Fim de Semana,Plena Noite,Nevoeiro/Neblina,14
+2024,Fim de Semana,Plena Noite,Nublado,134
+2024,Fim de Semana,Plena Noite,Vento,1
+2024,Fim de Semana,Pleno dia,Chuva,60
+2024,Fim de Semana,Pleno dia,Céu Claro,367
+2024,Fim de Semana,Pleno dia,Garoa/Chuvisco,5
+2024,Fim de Semana,Pleno dia,Ignorado,3
+2024,Fim de Semana,Pleno dia,Nevoeiro/Neblina,3
+2024,Fim de Semana,Pleno dia,Nublado,67
+2024,Fim de Semana,Pleno dia,Sol,63

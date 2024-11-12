@@ -1,0 +1,55 @@
+services:
+  cassandra-1:
+    image: cassandra:latest
+    container_name: cassandra-1
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_CLUSTER_NAME=Cluster
+      - CASSANDRA_SEEDS=cassandra-1,cassandra-2
+      - CASSANDRA_DC=dc
+      - CASSANDRA_RACK=rack
+    volumes:
+      - ./clean_data:/var/lib/cassandra/clean_data
+    healthcheck:
+      test: ["CMD", "cqlsh", "-e", "describe keyspaces"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+    networks:
+      - cassandra-network
+
+  cassandra-2:
+    image: cassandra:latest
+    container_name: cassandra-2
+    environment:
+      - CASSANDRA_CLUSTER_NAME=Cluster
+      - CASSANDRA_SEEDS=cassandra-1,cassandra-2
+      - CASSANDRA_DC=dc
+      - CASSANDRA_RACK=rack
+    depends_on:
+      - cassandra-1
+    networks:
+      - cassandra-network
+
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    container_name: jupyter-spark
+    user: root
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ./notebooks:/home/jovyan/work/notebooks
+      - ./output:/output
+    depends_on:
+      - cassandra-1
+      - cassandra-2
+    networks:
+      - cassandra-network
+
+networks:
+  cassandra-network:
+    driver: bridge
