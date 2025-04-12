@@ -8,3 +8,4 @@ Este repositório reúne os projetos desenvolvidos ao longo da formação MIT em
 - Infraestrutura Cassandra - [[Projeto]](./projetos/infraestrutura_cassandra/)
 - Infraestrutura MongoDB - [[Projeto]](./projetos/infraestrutura_mongodb/)
 - Infraestrutura Kafka - [[Projeto]](./projetos/infraestrutura_kafka/)
+- Infraestrutura BigQuery - [[Projeto]](./projetos/infraestrutura_bigquery/)
