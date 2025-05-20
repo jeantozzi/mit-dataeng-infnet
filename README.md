@@ -9,3 +9,4 @@ Este repositório reúne os projetos desenvolvidos ao longo da formação MIT em
 - Infraestrutura MongoDB - [[Projeto]](./projetos/infraestrutura_mongodb/)
 - Infraestrutura Kafka - [[Projeto]](./projetos/infraestrutura_kafka/)
 - Infraestrutura BigQuery - [[Projeto]](./projetos/infraestrutura_bigquery/)
+- Fundamentos de Machine Learning e Modelos Não Supervisionados - [[Projeto]](./projetos/fundamentos_ml_modelos_nao_supervisionados/)
